@@ -17,7 +17,7 @@ public class Abonat implements Observer {
 	}
 	//----------------------------------//
 	/**
-	 * Metoda ce permite ca un observer sa se aboneze la magazin
+	 * metoda ce permite ca un observer sa se aboneze la magazin
 	 *  cu conditia ca acesta sa nu existe deja in lista de abonati
 	 *  
 	 * @param mag parametru ce va permite apelarea metodei addObserver pt a adauga in lista noul abonat
