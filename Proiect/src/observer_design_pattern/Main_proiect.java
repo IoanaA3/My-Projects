@@ -16,7 +16,7 @@ import javax.swing.JRadioButton;
 public class Main_proiect {
 
 	/**
-	 * creare frame
+	 * Creare frame
 	 */
 	private JFrame frmMagazin;
 	/**

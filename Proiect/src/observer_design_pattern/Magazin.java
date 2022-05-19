@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Magazin implements Subject{
 	/**
-	 * Parametru ce reprezinta o lista in care vor fi stocati abonatii magazinului
+	 * parametru ce reprezinta o lista in care vor fi stocati abonatii magazinului
 	 */
 
 	private List<Observer> obs = new ArrayList<>(); 

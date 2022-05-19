@@ -49,7 +49,7 @@ public class Abonat implements Observer {
 	
 	
 	/**
-	 * Metoda afiseaza un mesaj ce va fi primit de fiecare abonat in parte cand apar reduceri in magazin
+	 * metoda afiseaza un mesaj ce va fi primit de fiecare abonat in parte cand apar reduceri in magazin
 	 * Va fi apelata in clasa Magazin, in functie notifyObserver, care va parcurge toata lista abonatilor
 	 * si va trimite fiecaruia mesajul din functia update
 	 */
